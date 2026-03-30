@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bicybert
 - 👀 I’m interested in anything about programing and game development
-- 🌱 I’m currently learning Godot and C#...
+-
 - 💞️ I’m looking to make games and become an indie game dev
 - 📫 How to reach me ...
 
